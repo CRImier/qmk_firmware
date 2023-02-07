@@ -1,6 +1,6 @@
 {
     "manufacturer": "Arya",
-    "keyboard_name": "Frmework Input Cover RP2040 Controller",
+    "keyboard_name": "Framework Input Cover RP2040 Controller",
     "maintainer": "CRImier",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
